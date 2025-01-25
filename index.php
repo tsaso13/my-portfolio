@@ -5,7 +5,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="ka">
 <head>
-    <meta charset="UTF-8">                                                                                                                    მომწონს აქ ყველაფერი უბრალოდ ნავგიაციის მენიუ მინდა უფრო დახვეწილი და ლამაზი იყოს  
+    <meta charset="UTF-8">                                                                                                                    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>პორტფოლიო - დავით წასიძე</title>
     <link rel="stylesheet" href="styles.css">
