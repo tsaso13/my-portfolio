@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,8 +7,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #2c3e50; /* მუქი ფონი */
-    color: #ecf0f1; /* ნათელი ტექსტი */
+    background-color: #2c3e50; 
+    color: #ecf0f1; 
     line-height: 1.6;
 }
 
@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-    color: #f39c12; /* ოქროსფერი ჰოვერ დროს */
+    color: #f39c12; 
 }
 
 ul {
@@ -31,7 +31,7 @@ ul {
 
 /* Header */
 header {
-    background-color: #34495e; /* მუქი ფონური ფერი */
+    background-color: #34495e; /* მუქი  ფერი */
     padding: 20px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 }
@@ -68,7 +68,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #95a5a6; /* მუქი ნაცრისფერი ჰოვერი */
+    background-color: #95a5a6; 
     color: #2c3e50;
     transform: scale(1.1); /* ვიზუალური გაფართოება */
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* ჩრდილის ეფექტი */
